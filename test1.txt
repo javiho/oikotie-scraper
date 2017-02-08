@@ -1,0 +1,1023 @@
+{
+    "cards": [
+        {
+            "id": 13614449,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/helsinki/13614449",
+            "description": "Siistikuntoinen läpitalon tilava asunto, josta hulppeat taivas- ja kaupunkinäkymät",
+            "rooms": 3,
+            "roomConfiguration": "2-3 h, kk, lasitettu parveke",
+            "price": "120 000 €",
+            "nextViewing": {
+                "start": "14:30",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825854.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825854.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T18:17:03Z",
+            "size": 55.5,
+            "sizeLot": 4110.1,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": "https://cdn.asunnot.oikotie.fi/300*260/172/221/company_image/172221815.jpg",
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Maasälväntie 14",
+                "district": "Pihlajamäki",
+                "city": "Helsinki",
+                "year": 1962,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.23822,
+                "longitude": 25.0092
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/143/107/company_image/143107554.jpg",
+                "name": "Kiinteistömaailma, Asuntoherttua Oy Viikki",
+                "id": 7630215
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614444,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/turku/13614444",
+            "description": "Valoisa pikkukoti omaksi kodiksi tai sijoitukseen",
+            "rooms": 1,
+            "roomConfiguration": "1h+kk+alkovi+kph+vh+lasitettu parveke",
+            "price": "62 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825806.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825806.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T18:00:23Z",
+            "size": 34.5,
+            "sizeLot": 2480,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Viskaripolku 5 A",
+                "district": "Härkämäki",
+                "city": "Turku",
+                "year": 1980,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.46607,
+                "longitude": 22.1982
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/144/696/company_image/144696246.jpg",
+                "name": "Turun Huoneistomarkkinat Oy LKV",
+                "id": 5012651
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614442,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/raasepori/13614442",
+            "description": "HEVOSTEN TAI ELÄINTEN PITOON",
+            "rooms": 4,
+            "roomConfiguration": "4h,k,wc, pihasauna(suihku, lvv), navetta, varasto (sis.erist.työh), ak/at",
+            "price": "154 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825780.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825780.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:57:50Z",
+            "size": 140,
+            "sizeLot": 31600,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Trädbollstadintie 51",
+                "district": "Pohja Bollsta",
+                "city": "Raasepori",
+                "year": 1952,
+                "buildingType": 4
+            },
+            "coordinates": {
+                "latitude": 60.11517,
+                "longitude": 23.49495
+            },
+            "brand": {
+                "image": null,
+                "name": "Suvi Ahlfors Oy LKV",
+                "id": 11833815
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614441,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/m%C3%A4ntyharju/13614441",
+            "description": "Miellyttävän lähellä keskustaa oleva saunallinen rivitalon päätyneliö",
+            "rooms": 4,
+            "roomConfiguration": "4h, k, kph, khh, s, 2xwc, vh, AK, var",
+            "price": "98 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825675.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825675.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:53:14Z",
+            "size": 95.5,
+            "sizeLot": 1700,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Kurkisalmentie 10 as",
+                "district": "Kyttälä",
+                "city": "Mäntyharju",
+                "year": 1982,
+                "buildingType": 2
+            },
+            "coordinates": {
+                "latitude": 61.42124,
+                "longitude": 26.87059
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/635/672/company_image/6356727.jpg",
+                "name": "Aitoasunnot / Palhomaa Oy LKV",
+                "id": 5015287
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614440,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/tampere/13614440",
+            "description": "HUOM",
+            "rooms": 3,
+            "roomConfiguration": "3h, k, vh, kph, wc",
+            "price": "167 500 €",
+            "nextViewing": {
+                "start": "15:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825673.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825673.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:53:11Z",
+            "size": 56,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Mäkikatu 66",
+                "district": "Pispala",
+                "city": "Tampere",
+                "year": 1929,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 61.504868,
+                "longitude": 23.707703
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/110/151/company_image/110151119.jpg",
+                "name": "Huom! | Pirkanmaan Laatuvälitys Oy",
+                "id": 7127861
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13613241,
+            "url": "https://asunnot.oikotie.fi/myytavat-asunnot/hyvink%C3%A4%C3%A4/13613241",
+            "description": "Huippupaikalla ydinkeskustan hissitalon parvekkeellinen ja saunallinen tilava kaksio",
+            "rooms": 2,
+            "roomConfiguration": "2h+k+s",
+            "price": "267 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/504/738/wide/50473801.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/504/738/thumb_search/50473801.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:44:57Z",
+            "size": 61.5,
+            "sizeLot": 773.2,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Ahjonkatu 1 A 5",
+                "district": "Keskusta",
+                "city": "Hyvinkää",
+                "year": 2012,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.632977,
+                "longitude": 24.86005
+            },
+            "brand": {
+                "image": null,
+                "name": null,
+                "id": null
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614371,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/helsinki/13614371",
+            "description": "38m2 kaksio Kampista",
+            "rooms": 2,
+            "roomConfiguration": "1-2h+avok+kph (yj:n mukaan 1h+k+alkovi)",
+            "price": "305 000 €",
+            "nextViewing": {
+                "start": "13:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825515.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825515.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:40:43Z",
+            "size": 38,
+            "sizeLot": 1315,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Kalevankatu 44",
+                "district": "Kamppi",
+                "city": "Helsinki",
+                "year": 1948,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.1644,
+                "longitude": 24.930214
+            },
+            "brand": {
+                "image": null,
+                "name": null,
+                "id": null
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614433,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/espoo/13614433",
+            "description": "Tyylikäs uutta vastaava merenrantakiinteistö sijaitsee rauhallisella paikalla Espoon Soukanniemi-Suvisaariston alueella päättyvän tien päässä ja pu...",
+            "rooms": 5,
+            "roomConfiguration": "oh+rh+keittiö+3-4mh+khh+spa-osasto+hirsisauna+2kph+4wc+2vh+tekn.tila+at",
+            "price": "2 590 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/019/wide/173019046.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/019/thumb_search/173019046.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:37:19Z",
+            "size": 281,
+            "sizeLot": 2818,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Vähänlahdentie 20",
+                "district": "Suvisaaristo-Soukanniemi",
+                "city": "Espoo",
+                "year": 2007,
+                "buildingType": 4
+            },
+            "coordinates": {
+                "latitude": 60.120205,
+                "longitude": 24.68401
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/539/291/company_image/5392915.jpg",
+                "name": "Lea Jakama Oy LKV (A)",
+                "id": 5012915
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614432,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/hartola/13614432",
+            "description": "Järven rannalla oleva 2,4hehtaarin tontilla oleva omakotitalo sinulle joka arvostat rauhaisaa eloa",
+            "rooms": 5,
+            "roomConfiguration": "5h,k,khh,kph,s,2xwc,et,aula,alakerta",
+            "price": "169 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825534.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825534.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:37:18Z",
+            "size": 135,
+            "sizeLot": 24000,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Karajärventie 97",
+                "district": "Ylemmäinen",
+                "city": "Hartola",
+                "year": 1989,
+                "buildingType": 4
+            },
+            "coordinates": {
+                "latitude": 61.58272,
+                "longitude": 25.87181
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/111/315/company_image/111315085.jpg",
+                "name": "RE/MAX Noste",
+                "id": 8423971
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614431,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/vaasa/13614431",
+            "description": "Tilava yksiö alkovilla ja vaatehuoneella",
+            "rooms": 1,
+            "roomConfiguration": "1h+kk",
+            "price": "45 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825527.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825527.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:37:12Z",
+            "size": 32.5,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Brennerinpolku 4",
+                "district": "Kråklund",
+                "city": "Vaasa",
+                "year": 1979,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 63.079887,
+                "longitude": 21.727846
+            },
+            "brand": {
+                "image": null,
+                "name": "Huom! l SoffanPaikka Oy, Vaasa",
+                "id": 12769014
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614430,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/kerava/13614430",
+            "description": "Putkiremontoitu huoneisto erinomaisella sijainnilla, rauhallisella Savion alueella, kaikkien palveluiden välittömässä  läheisyydessä",
+            "rooms": 4,
+            "roomConfiguration": "4h, k, kph, erill.wc, p",
+            "price": "159 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825516.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825516.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:37:04Z",
+            "size": 100,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Lehmuskatu 10",
+                "district": "Savio",
+                "city": "Kerava",
+                "year": 1975,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.383167,
+                "longitude": 25.08924
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/168/007/company_image/168007845.jpg",
+                "name": "Nordic Housing Oy",
+                "id": 5600157
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614403,
+            "url": "https://asunnot.oikotie.fi/myytavat-asunnot/helsinki/13614403",
+            "description": "Täydellisesti remontoitu, järkeväpohjainen kaksio loistavalla sijainnilla Linnanmäen kupeessa!",
+            "rooms": 2,
+            "roomConfiguration": "2h + k + kph",
+            "price": "229 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/138/399/wide/138399708.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/138/399/thumb_search/138399708.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:32:32Z",
+            "size": 34,
+            "sizeLot": 841,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Viipurinkatu 27 A",
+                "district": "Alppila",
+                "city": "Helsinki",
+                "year": 1943,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.192142,
+                "longitude": 24.937143
+            },
+            "brand": {
+                "image": null,
+                "name": null,
+                "id": null
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614426,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/kuopio/13614426",
+            "description": "Ensimmäisen kerroksen tilava ja valoisa kaksio Saarijärven A-alueella etsii uutta omistajaa",
+            "rooms": 2,
+            "roomConfiguration": "2h+k+kph+lasitettu parveke",
+            "price": "85 000 €",
+            "nextViewing": {
+                "start": "12:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825474.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825474.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:31:23Z",
+            "size": 58,
+            "sizeLot": 3648,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Ilmarisentie 14 A",
+                "district": "Saarijärvi A-alue",
+                "city": "Kuopio",
+                "year": -70,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 62.90561,
+                "longitude": 27.70747
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/172/923/company_image/172923114.jpg",
+                "name": "Kotilinkki Oy",
+                "id": 13482330
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614425,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/m%C3%A4nts%C3%A4l%C3%A4/13614425",
+            "description": "Loistavalla sijainnilla oleva koti, palveluiden vieressä",
+            "rooms": 4,
+            "roomConfiguration": "4h, k, s, psh, autotalli",
+            "price": "199 000 €",
+            "nextViewing": {
+                "start": "14:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825454.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825454.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:31:03Z",
+            "size": 116,
+            "sizeLot": 1111,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Koulutie 9",
+                "district": "Keskusta",
+                "city": "Mäntsälä",
+                "year": 1970,
+                "buildingType": 4
+            },
+            "coordinates": {
+                "latitude": 60.63918,
+                "longitude": 25.32684
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/143/107/company_image/143107554.jpg",
+                "name": "Kiinteistömaailma Järvenpää-Mäntsälä",
+                "id": 9685278
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614424,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/kirkkonummi/13614424",
+            "description": "Tinanpellonkuja 19, 02430 Masala, paritalo",
+            "rooms": 4,
+            "roomConfiguration": null,
+            "price": "289 000 €",
+            "nextViewing": {
+                "start": "15:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825417.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825417.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:25:59Z",
+            "size": 103,
+            "sizeLot": 7200,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Tinanpellonkuja 19",
+                "district": "Masala",
+                "city": "Kirkkonummi",
+                "year": 1974,
+                "buildingType": 64
+            },
+            "coordinates": {
+                "latitude": 60.162827,
+                "longitude": 24.525814
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/372/454/company_image/37245485.jpg",
+                "name": "Helsingin Habita Oy, Habita Itäkeskus",
+                "id": 5012945
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614422,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/porvoo/13614422",
+            "description": "4h, k, kph/wc, s, wc/kh-tila, terassi",
+            "rooms": 4,
+            "roomConfiguration": null,
+            "price": "245 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825391.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825391.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:25:32Z",
+            "size": 95,
+            "sizeLot": 4672,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "F.E.Sillanpään katu 2",
+                "district": "Hornhattula",
+                "city": "Porvoo",
+                "year": 2007,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.394,
+                "longitude": 25.626
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/372/454/company_image/37245485.jpg",
+                "name": "Porvoon Habita Oy, Habita Porvoo",
+                "id": 5012961
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614417,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/lahti/13614417",
+            "description": "Ainutlaatuinen, avoimilla Vesijärvinäkymillä varustettu,  ensimmäisen kerroksen siisti kaksio",
+            "rooms": 2,
+            "roomConfiguration": "2h,k,s,las.p",
+            "price": "169 000 €",
+            "nextViewing": {
+                "start": "16:30",
+                "date": "2017-02-13"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825316.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825316.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:17:03Z",
+            "size": 45.5,
+            "sizeLot": 1869,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Ruoriniemenkatu 18",
+                "district": "Ruoriniemi",
+                "city": "Lahti",
+                "year": 2005,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 61.00318,
+                "longitude": 25.64404
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/143/107/company_image/143107554.jpg",
+                "name": "Kiinteistömaailma, Lahti, Asuntolaune  Oy LKV",
+                "id": 5012245
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614405,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/vantaa/13614405",
+            "description": "Perheiden suosimalla idyllisellä alueella Vantaan Päiväkummussa, muuttovalmis kaunis koti",
+            "rooms": 3,
+            "roomConfiguration": "3-4h+k+s",
+            "price": "258 000 €",
+            "nextViewing": {
+                "start": "12:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825135.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825135.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:09:21Z",
+            "size": 85.5,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Päiväkummuntie 8",
+                "district": "Päiväkumpu",
+                "city": "Vantaa",
+                "year": 2005,
+                "buildingType": 64
+            },
+            "coordinates": {
+                "latitude": 60.31632,
+                "longitude": 25.100515
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/153/526/company_image/153526161.jpg",
+                "name": "Kahdeksas päivä Oy | Helsinki-Itä, Hitsaajankatu 24",
+                "id": 5014209
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614404,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/turku/13614404",
+            "description": "Todella toimiva pohjainen tehokaksio, lähellä keskustaa ja kouluja",
+            "rooms": 2,
+            "roomConfiguration": "2h+avokeittiö+kph+eteinen+vh (yhtiöjärjestyksen mukaan 2h+kk)",
+            "price": "109 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825134.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825134.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:09:03Z",
+            "size": 41,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Betaniankatu 15",
+                "district": "Martti",
+                "city": "Turku",
+                "year": 1942,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.439922,
+                "longitude": 22.260954
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/146/154/company_image/146154348.jpg",
+                "name": "Myyntiturva Turku / Vuokraturva Oy",
+                "id": 7796041
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614399,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/lohja/13614399",
+            "description": "HETI vapaa, nappäränkokoinen pikkuasunto kaupungin keskustassa odottaa uutta omistajaa",
+            "rooms": 1,
+            "roomConfiguration": "1h+kk+kph",
+            "price": "49 000 €",
+            "nextViewing": {
+                "start": "12:30",
+                "date": "2017-02-11"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825124.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825124.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T17:03:03Z",
+            "size": 27.5,
+            "sizeLot": 1044,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": "https://cdn.asunnot.oikotie.fi/300*260/172/221/company_image/172221815.jpg",
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Suurlohjankatu 24",
+                "district": "Keskusta",
+                "city": "Lohja",
+                "year": 1960,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.25084,
+                "longitude": 24.07414
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/143/107/company_image/143107554.jpg",
+                "name": "Kiinteistömaailma Lohja Kauppakatu / Länsi-Uudenmaan Kodit LKV",
+                "id": 7274669
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614397,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/kohde/13614397",
+            "description": "Aninkaisten Kiinteistövälitys ja LomaEspanjassa yhteistyössä esittävät:\n\nJuuri kunnostettu, vuonna 2006 rakennettu rivitaloasunto viihtyisällä alue...",
+            "rooms": 3,
+            "roomConfiguration": "3h+keittiö+kylpyhuone/wc+parveke ja kattoterassi",
+            "price": "89 900 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/164/952/wide/164952711.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/164/952/thumb_search/164952711.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T16:57:13Z",
+            "size": 50,
+            "sizeLot": 0,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Dream Hills, Calle Lagunas de Ruidera 628",
+                "district": "Orihuela Costa",
+                "city": "Orihuela",
+                "year": 2006,
+                "buildingType": 2
+            },
+            "coordinates": {
+                "latitude": 37.96461,
+                "longitude": -0.73581
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/140/493/company_image/140493525.jpg",
+                "name": "Aninkainen.fi | Zadettan Oy LKV",
+                "id": 7700389
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614395,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/tampere/13614395",
+            "description": "Amurista toisen kerroksen kaksio heti vapaana",
+            "rooms": 2,
+            "roomConfiguration": "2h, k",
+            "price": "169 000 €",
+            "nextViewing": null,
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825103.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825103.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T16:55:10Z",
+            "size": 59,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Kankurinkatu 3",
+                "district": "Amuri",
+                "city": "Tampere",
+                "year": 1969,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 61.501053,
+                "longitude": 23.738886
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/144/054/company_image/144054324.jpg",
+                "name": "Aktia Kiinteistönvälitys Oy, Tampere",
+                "id": 5014065
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614394,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/vantaa/13614394",
+            "description": "Ylimmän 9. kerroksen  kaksio loistopaikalla, aivan Louhelan juna-aseman (kehäratayhteys) läheisyydessä",
+            "rooms": 2,
+            "roomConfiguration": "2H+K",
+            "price": "140 000 €",
+            "nextViewing": {
+                "start": "14:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825102.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825102.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T16:55:08Z",
+            "size": 50,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Myyrmäentie 6",
+                "district": "Myyrmäki",
+                "city": "Vantaa",
+                "year": 1975,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.267395,
+                "longitude": 24.852184
+            },
+            "brand": {
+                "image": "https://cdn.asunnot.oikotie.fi/300*260/532/718/company_image/53271825.jpg",
+                "name": "Sp-Koti l Vantaa, Vantaan Kotikeskus Oy LKV",
+                "id": 7074719
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        },
+        {
+            "id": 13614393,
+            "url": "http://asunnot.oikotie.fi/myytavat-asunnot/helsinki/13614393",
+            "description": "Merellisessä ympäristössä vaalein materiaalein remontoitu perheasunto",
+            "rooms": 4,
+            "roomConfiguration": "4h, k, p, ranskal.p",
+            "price": "449 500 €",
+            "nextViewing": {
+                "start": "13:00",
+                "date": "2017-02-12"
+            },
+            "images": {
+                "wide": "https://cdn.asunnot.oikotie.fi/623*464/173/825/wide/173825101.jpg",
+                "thumb": "https://cdn.asunnot.oikotie.fi/215*161/173/825/thumb_search/173825101.jpg"
+            },
+            "newDevelopment": false,
+            "published": "2017-02-08T16:55:03Z",
+            "size": 91.5,
+            "sizeLot": null,
+            "cardType": 100,
+            "contractType": 1,
+            "onlineOffer": null,
+            "extraVisibility": null,
+            "extraVisibilityString": null,
+            "buildingData": {
+                "address": "Merisotilaantori 3",
+                "district": "Katajanokka",
+                "city": "Helsinki",
+                "year": 1984,
+                "buildingType": 1
+            },
+            "coordinates": {
+                "latitude": 60.16814,
+                "longitude": 24.97589
+            },
+            "brand": {
+                "image": null,
+                "name": "Muurikiinteistöt Oy",
+                "id": 7433783
+            },
+            "priceChanged": null,
+            "visits": 0,
+            "visits_weekly": 0
+        }
+    ],
+    "found": 46535,
+    "start": 0
+}
