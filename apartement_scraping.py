@@ -6,7 +6,12 @@ import sqlite3
 import collections
 
 """
-Kehitysehdotus: estä SQL-injektiohyökkäykset.
+Kehitysehdotuksia:
+    estä SQL-injektiohyökkäykset
+    lisää kommentteja
+    kaikki relevantit asuntojen tiedot
+    kuvaus sivuston käyttämästä apista, mukaan lukien hakukriteerit (jos ei jo ruby-projektissa)
+    kullakin asunnolla on oma kotisivu, josta löytyy tarkemmin tietoa. Sen voisi myös kerätä.
 """
 
 def from_site_to_databse():
@@ -81,41 +86,47 @@ def json_attr_to_sql_attr(json_attr_name):
     for json_attr in json_attribute_names:
         if json_attr_name == json_attr:
             return json_attr_name
-    raise Exception("Attribute name not found: " + json_attr_name)   
+    raise Exception("Attribute name not found: " + json_attr_name)
+    
+def print_apartments():
+    conn = sqlite3.connect(db_path)
+    cursor = conn.execute('SELECT * FROM apartment')
+    for row in cursor:
+        print('id: ', row[0])
+        print('description: ', row[1])
 
-#r = requests.get('https://api.github.com/events')
-apartements_table_attr_names = ['id', 'description', 'rooms', 'room_configuration', 'price', 'size', 'size_lot']
+#apartements_table_attr_names = ['id', 'description', 'rooms', 'room_configuration', 'price', 'new_development',
+#                                'size', 'size_lot'....]
 json_attribute_names = ['id', 'description', 'rooms', 'roomConfiguration', 'price', 'size', 'sizeLot']
 db_path = 'testdb.db'
-
-conn = sqlite3.connect(db_path)
-cursor = conn.execute('SELECT * FROM apartment')
-for row in cursor:
-    print('id: ', row[0])
-    print('description: ', row[1])
-
-#r = requests.get('https://asunnot.oikotie.fi/api/cards?cardType=100&limit=24&offset=0&sortBy=published_desc')
-#r.encoding = 'ISO-8859-1'
-#print(as_json['cards'][0]['price'])
-
-
-#print(all_cards)
-#print(len(all_cards))
-#print("cd count: ", len(card_dictionaries))
-#print(card_dictionaries)
-
-############################
-
-#print(as_json)
-#dump = json.dumps(as_json, indent=4, ensure_ascii=False)
-#print(dump)
-#with io.open('test1.txt', 'w', encoding='utf-8') as f:
-#    f.write(dump)
 
 
 ##################### KÄYTETTYJÄ KOMENTOJA ############################
 
 #conn.execute('DROP TABLE apartement')
+
+
+"""conn = sqlite3.connect(db_path)
+conn.execute('''
+CREATE TABLE apartment
+(id INT PRIMARY KEY NOT NULL,
+description NVARCHAR(1000),
+rooms INT,
+room_configuration NVARCHAR(200),
+price INT,
+new_development BOOLEAN,
+size DECIMAL,
+size_lot DECIMAL,
+contract_type INT,
+address NVARCHAR(100),
+district NVARCHAR(100),
+city NVARCHAR(100),
+year INT,
+building_type INT,
+latitude DECIMAL,
+longitude DECIMAL
+);
+''')"""
 
 """conn.execute('''
 CREATE TABLE apartment
@@ -139,3 +150,5 @@ VALUES (999999999, 'Tämä on testikuvaus', 5, '4k, wc', 105000, 85.5, 1200.0)
 for row in cursor:
     print('id: ', row[0])
     print('description: ', row[1])"""
+    
+#r = requests.get('https://asunnot.oikotie.fi/api/cards?cardType=100&limit=24&offset=0&sortBy=published_desc')
