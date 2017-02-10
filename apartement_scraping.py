@@ -1,20 +1,9 @@
 # -*- coding: utf-8 -*-
 import requests
-import json as js_library
-import io
 import sqlite3
 import collections
 
-"""
-Kehitysehdotuksia:
-    estä SQL-injektiohyökkäykset
-    lisää kommentteja
-    kaikki relevantit asuntojen tiedot
-    kuvaus sivuston käyttämästä apista, mukaan lukien hakukriteerit (jos ei jo ruby-projektissa)
-    kullakin asunnolla on oma kotisivu, josta löytyy tarkemmin tietoa. Sen voisi myös kerätä.
-"""
-
-def from_site_to_databse():
+def from_site_to_database():
     all_cards = []
     limit = 24
     for offset in range(0, 3*limit, limit):
@@ -34,7 +23,6 @@ def get_set_of_cards(offset, limit):
 
 def get_card_dictionaries(json):
     card_count = len(json['cards'])
-    #print(card_count)
     cds = []
     for i in range(0, card_count):
         cd = get_card_dict(json, i)
@@ -56,12 +44,8 @@ def add_attribute_to_dict(card_dict, json, card_index, attribute_name):
         card_dict[attribute_name] = json['cards'][card_index][attribute_name]
     
 def price_string_to_int(price_str):
-    #price_str = price_str.replace('\\xa', '')
-    #price_str = price_str.replace('€', '')
-    #print("replaced: ", price_str)
     only_digits = ''.join(filter(lambda x: x.isdigit(), price_str))
     as_int = int(only_digits)
-    #print(as_int)
     return as_int
 
 def save_cards_to_db(card_dicts):
@@ -89,66 +73,30 @@ def json_attr_to_sql_attr(json_attr_name):
     raise Exception("Attribute name not found: " + json_attr_name)
     
 def print_apartments():
+    """Prints some attributes.
+    """
     conn = sqlite3.connect(db_path)
     cursor = conn.execute('SELECT * FROM apartment')
     for row in cursor:
         print('id: ', row[0])
         print('description: ', row[1])
+        
+def create_apartments_table():
+    conn = sqlite3.connect(db_path)
+    conn.execute('''
+    CREATE TABLE apartment
+    (id INT PRIMARY KEY NOT NULL,
+    description NVARCHAR(1000),
+    rooms INT,
+    room_configuration NVARCHAR(200),
+    price INT,
+    size DECIMAL,
+    size_lot DECIMAL
+    );
+    ''')
 
-#apartements_table_attr_names = ['id', 'description', 'rooms', 'room_configuration', 'price', 'new_development',
-#                                'size', 'size_lot'....]
 json_attribute_names = ['id', 'description', 'rooms', 'roomConfiguration', 'price', 'size', 'sizeLot']
 db_path = 'testdb.db'
-
-
-##################### KÄYTETTYJÄ KOMENTOJA ############################
-
-#conn.execute('DROP TABLE apartement')
-
-
-"""conn = sqlite3.connect(db_path)
-conn.execute('''
-CREATE TABLE apartment
-(id INT PRIMARY KEY NOT NULL,
-description NVARCHAR(1000),
-rooms INT,
-room_configuration NVARCHAR(200),
-price INT,
-new_development BOOLEAN,
-size DECIMAL,
-size_lot DECIMAL,
-contract_type INT,
-address NVARCHAR(100),
-district NVARCHAR(100),
-city NVARCHAR(100),
-year INT,
-building_type INT,
-latitude DECIMAL,
-longitude DECIMAL
-);
-''')"""
-
-"""conn.execute('''
-CREATE TABLE apartment
-(id INT PRIMARY KEY NOT NULL,
-description NVARCHAR(1000),
-rooms INT,
-room_configuration NVARCHAR(200),
-price INT,
-size DECIMAL,
-size_lot DECIMAL
-);
-''')"""
-
-"""conn.execute('''
-INSERT INTO apartment(id, description, rooms, room_configuration, price, size, size_lot)
-VALUES (999999999, 'Tämä on testikuvaus', 5, '4k, wc', 105000, 85.5, 1200.0)
-''')"""
-#conn.commit()
-
-"""cursor = conn.execute('SELECT * FROM apartment')
-for row in cursor:
-    print('id: ', row[0])
-    print('description: ', row[1])"""
-    
-#r = requests.get('https://asunnot.oikotie.fi/api/cards?cardType=100&limit=24&offset=0&sortBy=published_desc')
+#create_apartments_table()
+from_site_to_database()
+print_apartments()
